@@ -33,4 +33,4 @@ build/
 .vscode/
 
 src/main/resources/application.properties
-"D:\Spring Boot\journalApp\atlas-credentials.env"
+atlas-credentials.env
